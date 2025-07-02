@@ -54,9 +54,9 @@ Make sure you have pynput installed:
 pip install pynput
 
 Run the Keylogger:
-Execute the script from your terminal or command prompt:
+just double tap the keylogger.exe file 
 
-python keylogger.py
+
 
 Monitor Output:
 
@@ -67,7 +67,7 @@ Any key you type while the script is running will be printed to your console.
 All logged keys will also be saved in a file named log.txt in the same directory as the script.
 
 Stop the Keylogger:
-To stop the keylogger, go back to the terminal where the script is running and press Ctrl + C.
+To stop the keylogger, go back to the terminal where the script is running and exit terminal .
 
 Log File (log.txt)
 The log.txt file will be created automatically in the directory where you run the keylogger.py script. Each key press will be appended to this file. Special keys like "space" or "backspace" will be represented as their string equivalents.
